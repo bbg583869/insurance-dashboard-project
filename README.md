@@ -45,6 +45,6 @@ more.
 
 ## Screenshots
 ### Excel Dashboard
-![Excel_dashboard.png](Excel_dashboard.png)
+![Excel_dashboard1.png](Excel_dashboard1.png)
 ### Power BI Dashboard
 ![PowerBI_dashboard.png](PowerBI_dashboard.png)
