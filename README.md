@@ -7,7 +7,9 @@ insurance metrics such as customer demographics, expenses, premium distribution,
 categories, and policy insights. The project demonstrates strong skills in
 **dashboard design** and **data visualization**.
 
-## **Tools Used**
+## Data Source: Kaggle https://www.kaggle.com/datasets/imtkaggleteam/health-insurance-dataset
+
+##**Tools Used**
 
 *Microsoft Excel (Advanced Excel, Pivot Tables, Slicers, Pivot Charts)
 *Microsoft Power BI (DAX, Data Modeling, Interactive Visuals)
