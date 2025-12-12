@@ -43,6 +43,6 @@ more.
 
 ## Screenshots
 ### Excel Dashboard
-![Excel_dashboard.png](..%2F..%2FDesktop%2Fportfolio%20projects%40december%2FExcel_dashboard.png)
+![Excel_dashboard.png](Excel_dashboard.png)
 ### Power BI Dashboard
-![PowerBI_dashboard.png](..%2F..%2FDesktop%2Fportfolio%20projects%40december%2FPowerBI_dashboard.png)
+![PowerBI_dashboard.png](PowerBI_dashboard.png)
